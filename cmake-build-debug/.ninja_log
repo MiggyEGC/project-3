@@ -1,0 +1,17 @@
+# ninja log v5
+3	120	6704503598557904	CMakeFiles/untitled1.dir/weather_csv.c.obj	73996fc667a41497
+6	85	6704495004394170	CMakeFiles/untitled1.dir/weather_processing.c.obj	c58d5a0f7a897e31
+2	71	6704499100105103	CMakeFiles/untitled1.dir/main.c.obj	bf6c78091d878c9e
+121	248	6704503599791427	untitled1.exe	2cbf2a5848c8bfb2
+2	72	6704506663357733	CMakeFiles/untitled1.dir/main.c.obj	bf6c78091d878c9e
+73	153	6704506664098061	untitled1.exe	2cbf2a5848c8bfb2
+1	71	6704513263378437	CMakeFiles/untitled1.dir/main.c.obj	bf6c78091d878c9e
+6	74	6704513263432538	CMakeFiles/untitled1.dir/weather_csv.c.obj	73996fc667a41497
+74	150	6704513264124406	untitled1.exe	2cbf2a5848c8bfb2
+2	84	6704515970731267	CMakeFiles/untitled1.dir/main.c.obj	bf6c78091d878c9e
+21	87	6704515970780028	CMakeFiles/untitled1.dir/weather_csv.c.obj	73996fc667a41497
+87	158	6704515971450207	untitled1.exe	2cbf2a5848c8bfb2
+2	74	6704516303103495	CMakeFiles/untitled1.dir/weather_csv.c.obj	73996fc667a41497
+74	159	6704516303951421	untitled1.exe	2cbf2a5848c8bfb2
+6	123	6704518793700903	CMakeFiles/untitled1.dir/weather_csv.c.obj	73996fc667a41497
+123	241	6704518794847037	untitled1.exe	2cbf2a5848c8bfb2
